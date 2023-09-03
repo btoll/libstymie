@@ -1,0 +1,4 @@
+github.com/btoll/diceware v0.0.0-20230901070742-3113761c9ce0 h1:uAFFudk2wkq+Z/Za7idAeaV66HduqkX1qxNrB4e7Ecc=
+github.com/btoll/diceware v0.0.0-20230901070742-3113761c9ce0/go.mod h1:ndKQSuTtAJJ85eTPXiwhZBBYBdbuy/YL+zgmgzRoQFA=
+github.com/btoll/sillypass v0.0.0-20230901163051-cedd4ae6a448 h1:lwDtyb2R+GYG6ArV1wj0E23GliUcnAPUglVJcNT/C0k=
+github.com/btoll/sillypass v0.0.0-20230901163051-cedd4ae6a448/go.mod h1:ADJJvICK7VwM7C+zdpcQYhp4PhUG0g53XbK5mDLMzIU=
